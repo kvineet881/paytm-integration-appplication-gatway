@@ -1,0 +1,7 @@
+Get Paytm Properties such as Merchant ID, Merchant Key, etc.
+
+Login or Sign up to your Paytm account. https://dashboard.paytm.com/
+Go to the Developer setting on the left-hand side of the site.
+Choose API Keys.
+Select Generate Test API Details.
+You will get Test Merchant ID and Test Merchant Key.
